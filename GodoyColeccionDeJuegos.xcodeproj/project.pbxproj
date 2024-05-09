@@ -17,6 +17,7 @@
 		508E823E2BECA00500875A4A /* GodoyColeccionDeJuegosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508E823D2BECA00500875A4A /* GodoyColeccionDeJuegosTests.swift */; };
 		508E82482BECA00600875A4A /* GodoyColeccionDeJuegosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508E82472BECA00600875A4A /* GodoyColeccionDeJuegosUITests.swift */; };
 		508E824A2BECA00600875A4A /* GodoyColeccionDeJuegosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508E82492BECA00600875A4A /* GodoyColeccionDeJuegosUITestsLaunchTests.swift */; };
+		508E82572BECA84700875A4A /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508E82562BECA84700875A4A /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		508E82432BECA00600875A4A /* GodoyColeccionDeJuegosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GodoyColeccionDeJuegosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		508E82472BECA00600875A4A /* GodoyColeccionDeJuegosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GodoyColeccionDeJuegosUITests.swift; sourceTree = "<group>"; };
 		508E82492BECA00600875A4A /* GodoyColeccionDeJuegosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GodoyColeccionDeJuegosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		508E82562BECA84700875A4A /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		508E82172BECA00300875A4A = {
 			isa = PBXGroup;
 			children = (
+				508E82562BECA84700875A4A /* JuegosViewController.swift */,
 				508E82222BECA00300875A4A /* GodoyColeccionDeJuegos */,
 				508E823C2BECA00500875A4A /* GodoyColeccionDeJuegosTests */,
 				508E82462BECA00600875A4A /* GodoyColeccionDeJuegosUITests */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				508E82572BECA84700875A4A /* JuegosViewController.swift in Sources */,
 				508E82282BECA00300875A4A /* ViewController.swift in Sources */,
 				508E82242BECA00300875A4A /* AppDelegate.swift in Sources */,
 				508E822E2BECA00300875A4A /* GodoyColeccionDeJuegos.xcdatamodeld in Sources */,
